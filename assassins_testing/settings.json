@@ -1,0 +1,7 @@
+{
+  "adminName": "admin",
+  "phrases": ["alpha","beta","gamma","delta","epsilon","zeta","eta","theta","iota","kappa","lambda","mu","nu","xi","omicron","pi","phi","chi","psi","omega"],
+  "public": {
+    "titlePrefix": "RHA"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "fbAppId": "302293237467698",
+  "fbSecret": "351559f5e267f370d12e34bf058aab20",
+  "adminName": "Christian Meinzen",
+  "phrases": ["alpha","beta","gamma","delta","epsilon","zeta","eta","theta","iota","kappa","lambda","mu","nu","xi","omicron","pi","phi","chi","psi","omega"],
+  "public": {
+    "titlePrefix": "Spoon"
+  }
+}

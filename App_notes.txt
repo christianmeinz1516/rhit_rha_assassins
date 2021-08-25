@@ -1,0 +1,5 @@
+* Github - sibnerian/assassins
+* This creates an online app that uses Meteor.js (admin uses Houston)
+  ** Look at a tutorial on how to deploy
+
+* Make sure that this works before!!!

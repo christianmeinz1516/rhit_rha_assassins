@@ -1,0 +1,30 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+coffeescript
+less
+jquery
+showdown
+underscore
+accounts-facebook
+random
+mizzao:bootstrap-3
+accounts-ui-unstyled
+iron:layout
+houston:admin
+service-configuration
+mizzao:bootboxjs
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+tracker
+logging
+reload
+ejson
+spacebars
+check
